@@ -139,10 +139,7 @@ public class mobile {
 
 		//File file = new File("/root/test.txt" + File.separator);// linux
 		
-	 // File file = new File("/root/" + regionName + ".txt"+ File.separator);// linux
-		
-		
-	
+	        // File file = new File("/root/" + regionName + ".txt"+ File.separator);// linux
 
 		// File file = new File("D:\\" + regionName + ".txt"+ File.separator);//
 
